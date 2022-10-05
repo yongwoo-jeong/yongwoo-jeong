@@ -1,9 +1,18 @@
 
 <div align="center" display="flex">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongwoo-jeong&layout=compact)](https://github.com/yongwoo-jeong/github-readme-stats)
-[![Yongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongwoo-jeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://)](https://github.com/yongwoo-jeong/github-readme-stats)
+[![Yongwoo's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=yongwoo-jeong"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="github-readme-stats.vercel.app/api/top-langs/?username=yongwoo-jeong&layout=compact"/></td>
+  </tr>
+</table>
   
 <!--
 **yongwoo-jeong/yongwoo-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
