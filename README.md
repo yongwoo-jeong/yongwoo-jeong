@@ -1,16 +1,10 @@
 
-<div align="center" display="flex">
-    
-[![Top Langs]()]
-[![Yongwoo's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=yongwoo-jeong"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongwoo-jeong&layout=compact"(https://github.com/yongwoo-jeong/github-readme-stats)/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongwoo-jeong&layout=compact"/></td>
   </tr>
 </table>
   
